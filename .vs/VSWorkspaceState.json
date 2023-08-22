@@ -4,6 +4,10 @@
     "\\firstFolder",
     "\\secondFolder"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\secondFolder\\FourthFile.txt",
+=======
+  "SelectedNode": "\\firstFolder\\ThirdFile.txt",
+>>>>>>> new-feature
   "PreviewInSolutionExplorer": false
 }
