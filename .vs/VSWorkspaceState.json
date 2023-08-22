@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\firstFolder"
+    "\\firstFolder",
+    "\\secondFolder"
   ],
-  "SelectedNode": "\\firstFolder\\SecondFile.txt",
+  "SelectedNode": "\\firstFolder\\ThirdFile.txt",
   "PreviewInSolutionExplorer": false
 }
